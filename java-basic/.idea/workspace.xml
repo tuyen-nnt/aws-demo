@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e86b06ac-7086-4043-aae4-f74fe8595573" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/example/HandlerString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/HandlerString.java" afterDir="false" />
     </list>
@@ -57,7 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1658740155041</updated>
       <workItem from="1658740157466" duration="7444000" />
-      <workItem from="1658771902354" duration="6176000" />
+      <workItem from="1658771902354" duration="6766000" />
+      <workItem from="1658983000262" duration="2755000" />
     </task>
     <servers />
   </component>
